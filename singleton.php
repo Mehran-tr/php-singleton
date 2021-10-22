@@ -1,5 +1,8 @@
 <?php
 
+/*
+ * The Singleton Pattern ensures a Class has only one instance , and provides a global point of access to it
+ * */
 class Database
 {
     public static $connection;
